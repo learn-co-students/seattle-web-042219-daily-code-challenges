@@ -1,7 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
-
----
-
 Given an array of strings, return another array containing all of its longest strings.
 
 **Example**
@@ -32,4 +28,4 @@ Array of the longest strings, stored in the same order as in the inputArray.
 
 ## Credit
 
-[100 Algorithms Challenge](https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/tree/master/addTwoDigits)
+[100 Algorithms Challenge](https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/tree/master/allLongestStrings)

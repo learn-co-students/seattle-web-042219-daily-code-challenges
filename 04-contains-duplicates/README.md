@@ -8,7 +8,7 @@ input: ["hippo", "cat", "dog", "cat"]
 output: true
 
 input: [1, 2, 3, 4, 5, 2]
-output: false
+output: true
 
 input: [1, 2, 3, 4, 5]
 output: false

@@ -13,6 +13,7 @@ The first is a square matrix array and the second is the number of rows and colu
 the output should be the sum of the two diagonals.
 The solution should evaluate for any size of square matrix.
 
-Question from @calebwatters
-Solution by @seanwatters
+Question from [@calebwatters](https://github.com/calebwatters)
+
+Solution by [@seanwatters](https://github.com/seanwatters)
 
